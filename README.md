@@ -2,13 +2,13 @@
 
 My name is Jared and I am a full-stack developer from Portland, Oregon
 
-- 🔭 I’m currently working on BioBreak, a biotech stock tracking app
-- 🌱 I’m currently working on transitioning to TypeScript
+- 🧬 I’m currently working on BioBreak, a biotech stock tracking app
+- 🌱 I’m currently working on transitioning to ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 - 😄 Pronouns: He/Him
 - 🎸 If I'm not on my computer I'm listening to music or playing guitar
 - ⚡ Fun fact: The horseshoe crab has ten eyes, including at least six distinct types of eyes.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jared-mumaw-9395a6243/) 👽 [Portfolio](https://professorjrod.github.io/#/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jared-mumaw-9395a6243/) 👽 [Portfolio](https://professorjrod.github.io/#/) ✍️ [Blog](https://dev.to/jaredm)
 <!--
 **professorjrod/professorjrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
