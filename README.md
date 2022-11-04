@@ -3,7 +3,7 @@
 My name is Jared and I am a full-stack developer from Portland, Oregon
 
 - 🧬 I’m currently working on BioBreak, a biotech stock tracking app
-- 🌱 I’m currently working on transitioning to ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
+- 🌱 I’m currently working on transitioning to [![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)](https://www.typescriptlang.org/)
 - 😄 Pronouns: He/Him
 - 🎸 If I'm not on my computer I'm listening to music or playing guitar
 - ⚡ Fun fact: The horseshoe crab has ten eyes, including at least six distinct types of eyes.
