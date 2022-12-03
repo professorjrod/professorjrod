@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Jared and I am a full-stack developer from Portland, Oregon
 
