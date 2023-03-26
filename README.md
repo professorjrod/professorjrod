@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Jared and I am a full-stack developer from Portland, Oregon
+My name is Jared and I am a developer from Portland, Oregon
 
 - 🧬 I’m currently working on BioBreak, a biotech stock tracking app
 - 😄 Pronouns: He/Him
