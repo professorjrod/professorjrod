@@ -1,11 +1,9 @@
 ### Hello! 👋
 
-My name is Jared and I am a developer from Portland, Oregon
+My name is Jared and I am a software engineer from Portland, Oregon
 
-- 🏃‍♂️ I'm currently exploring edge computing
 - 😄 Pronouns: He/Him
 - 🎸 If I'm not on my computer I'm listening to music or playing guitar
-- 🍯 Fun Fact: Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jared-mumaw-9395a6243/) 👽 [Portfolio](https://professorjrod.github.io/#/) ✍️ [Blog](https://dev.to/jaredm)
 <!--
