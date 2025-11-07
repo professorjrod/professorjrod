@@ -1,9 +1,8 @@
-### Hello! 👋
+### Hello!
 
 My name is Jared and I am a software engineer from Portland, Oregon
 
-- 😄 Pronouns: He/Him
-- 🎸 If I'm not on my computer I'm listening to music or playing guitar
+My favorites are fullstack, android, and game dev
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jared-mumaw-9395a6243/) 👽 [Portfolio](https://professorjrod.github.io/#/) ✍️ [Blog](https://dev.to/jaredm)
 <!--
